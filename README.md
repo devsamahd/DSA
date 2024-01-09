@@ -1,2 +1,2 @@
 # DSA
-Personal but open source 30 days of Data Structures and algorithm. 
+Personal but open source solutions to Data Structures and algorithm problems(leetcode problems too) in javascript and golang.
